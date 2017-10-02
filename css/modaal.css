@@ -1,0 +1,138 @@
+.modaal-venster
+{
+    position: fixed;
+    z-index: 100;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(0,0,0);
+    background-color: rgba(0,0,0,0.9);
+}
+
+.modaal-inhoud
+{
+    background-color: #ffffff;
+    margin: 5% auto;
+    width: 100%;
+    height: 650px;
+}
+.modaal_img{
+    width: 100%;
+}
+.modaal_h1{
+    color: #bf2322;
+    text-align: center;
+    font-family: 'Open Sans bold', sans-serif;
+
+
+}
+.modaal_blok{
+    width: 25%;
+    float: left;
+}
+.modaal_h2{
+    color: #bf2322;
+    font-family: 'Open Sans bold', sans-serif;
+
+}
+.modaal_blok p{
+    color: #212123;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 14px;
+    margin-top: -5px;
+    font-family: 'Open Sans', sans-serif;
+}
+.myButton {
+    background-color:#bf2222;
+    -moz-border-radius:10px;
+    -webkit-border-radius:10px;
+    border-radius:10px;
+    cursor:pointer;
+    color:#ffffff;
+    font-size:12px;
+    padding:9px 23px;
+    text-decoration:none;
+    text-shadow:0px 0px 22px #bf2222;
+}
+.myButton:hover {
+    background-color:#212123;
+}
+.exit{
+    display: none;
+}
+.modaal_blok_center{
+    width: 90%;
+    margin: 0 auto;
+}
+@media only screen and (max-width:900px){
+    .modaal-venster
+    {
+        position: fixed;
+        z-index: 100;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(0,0,0);
+        background-color: rgba(0,0,0,0.9);
+    }
+
+    .modaal-inhoud
+    {
+        background-color: #ffffff;
+        margin: 5% auto;
+        width: 300px;
+        height: 650px;
+    }
+    .modaal_img{
+        width: 100%;
+    }
+    .modaal_h1{
+        color: #bf2322;
+        text-align: center;
+        font-family: 'Open Sans bold', sans-serif;
+
+
+    }
+    .modaal_blok{
+        width: 25%;
+        float: left;
+    }
+    .modaal_h2{
+        color: #bf2322;
+        font-family: 'Open Sans bold', sans-serif;
+
+    }
+    .modaal_blok p{
+        color: #212123;
+        margin-left: 5px;
+        margin-right: 5px;
+        font-size: 14px;
+        margin-top: -5px;
+        font-family: 'Open Sans', sans-serif;
+    }
+    .myButton {
+        background-color:#bf2222;
+        -moz-border-radius:10px;
+        -webkit-border-radius:10px;
+        border-radius:10px;
+        cursor:pointer;
+        color:#ffffff;
+        font-size:12px;
+        padding:9px 23px;
+        text-decoration:none;
+        text-shadow:0px 0px 22px #bf2222;
+    }
+    .myButton:hover {
+        background-color:#212123;
+    }
+    .exit{
+        display: none;
+    }
+    .modaal_blok_center{
+        width: 90%;
+        margin: 0 auto;
+    }
+}

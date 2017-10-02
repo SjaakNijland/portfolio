@@ -1,0 +1,48 @@
+footer{
+    width: 100%;
+    background-color: #212123;
+    float: left;
+}
+.footer_content{
+    width: 15%;
+    margin: 0 auto;
+}
+.f_icons{
+    width: 25%;
+    float: left;
+}
+.f_icons:hover{
+    cursor: pointer;
+}
+@media only screen and (min-width:900px) and (max-width: 1530px) {
+    footer{
+        margin-top: 30px;
+        width: 100%;
+        background-color: #212123;
+        float: left;
+    }
+    .footer_content{
+        width: 40%;
+        margin: 0 auto;
+    }
+    .f_icons{
+        width: 25%;
+        float: left;
+    }
+}
+@media only screen and (max-width:900px){
+    footer{
+        margin-top: 30px;
+        width: 100%;
+        background-color: #212123;
+        float: left;
+    }
+    .footer_content{
+        width: 80%;
+        margin: 0 auto;
+    }
+    .f_icons{
+        width: 25%;
+        float: left;
+    }
+}
