@@ -164,7 +164,7 @@ nav{
     header{
         width:100%;
         background: rgba(0, 0, 0, 0.3);;
-        height:60px;
+        height:50px;
         line-height:60px;
         border-bottom:1px solid #bf2322;
     }
@@ -177,7 +177,7 @@ nav{
         padding:5px 15px 0px 15px;
         color:#bf2322;
         border:0;
-        font-size:1.4em;
+        font-size:1.8em;
         font-weight:bold;
         cursor:pointer;
         outline:none;
@@ -192,7 +192,7 @@ nav{
         padding:7px 15px 0px 15px;
         color:#bf2322;
         border:0;
-        font-size:3em;
+        font-size:4em;
         line-height:65px;
         font-weight:bold;
         cursor:pointer;
@@ -200,7 +200,7 @@ nav{
         z-index:10000000000000;
         display: block;
     }
-    .menu{z-index:1000000; font-weight:bold; font-size:0.8em; width:100%; background: rgba(0, 0, 0, 0.3);  position:fixed; text-align:center; font-size:12px;margin-top: 60px}
+    .menu{z-index:1000000; font-weight:bold; font-size:0.8em; width:100%; background: rgba(0, 0, 0, 0.3);  position:fixed; text-align:center; font-size:12px;margin-top: 50px}
     .menu ul {margin: 0; padding: 0; list-style-type: none; list-style-image: none;}
     .menu li {display: block;   padding:15px 0 15px 0; border-bottom:#bf2322 1px solid;}
     .menu li:hover{display: block;    background: rgba(0, 0, 0, 0.3); padding:15px 0 15px 0; border-bottom:#bf2322 1px solid;}

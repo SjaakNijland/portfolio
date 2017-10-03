@@ -26,7 +26,7 @@
                             genoeg projecten heb gedaan in groepsverband, waardoor ik weet dat ik goed kan samenwerken en een goede sfeer kan creëren.
                             <br>
                             <br>
-                            Ik denk zdat er nog veel te leren valt binnen deze industrie en ben daarom opzoek naar plekken die mij nog veel kunnen bijbrengen op het gebied van development.
+                            Ik denk dat er nog veel te leren valt binnen deze industrie en ben daarom opzoek naar plekken die mij nog veel kunnen bijbrengen op het gebied van development.
                             <br>
                             <br>
                             <br>
@@ -85,157 +85,40 @@
                 </div>
                 <div id="slide5_content">
                     <div class="werk">
-                        <figure class="imghvr-shutter-in-out-diag-1" id="werk1Thumb"><img src="./img/werk/funzige.png" alt="work" >
-                            <figcaption>
+                        <a href="index.php?action=funzige">
+                        <figure class="imghvr-shutter-in-out-diag-1"><img src="./img/werk/funzige.png" alt="work" >
+                            <figcaption >
                                 <h1 class="werk_h1">Funzige Designs</h1>
                             </figcaption>
                         </figure>
-                    </div>
-                    <div id="werk1">
-                        <img src="./img/werk/funzige.png" alt="madworld"class="modaal_img">
-                        <h1 class="modaal_h1">Funzige Desings</h1>
-                        <div class="modaal_blok_center">
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Talen</h2>
-                                <p>HTML</p>
-                                <p>CSS</p>
-                                <p>PHP</p>
-                                <p>JAVASCRIPT?JQUERY</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Team</h2>
-                                <p>Sjaak Nijland(developer)</p>
-                                <p>Willem Elfrin(developer)</p>
-                                <p>Liam(vormgever)</p>
-                                <p>Robbin(vormgever)</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Taak</h2>
-                                <p>Parralax effect</p>
-                                <p>Opmaak site met html/css</p>
-                                <p>Menu effect</p>
-
-                            </div>
-                            <div class="modaal_blok">
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <p><a href="#" class="myButton">Ga naar site!</a></p>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="werk">
-                        <figure class="imghvr-shutter-in-out-diag-1" id="werk2Thumb"><img src="./img/werk/bram.png" alt="work" >
+                        <a href="index.php?action=bram">
+                        <figure class="imghvr-shutter-in-out-diag-1"><img src="./img/werk/bram.PNG" alt="work" >
                             <figcaption>
                                 <h1 class="werk_h1">Bram's Portofolio</h1>
                             </figcaption>
                         </figure>
-                    </div>
-                    <div id="werk2">
-                        <img src="./img/werk/bram.png" alt="madworld"class="modaal_img">
-                        <h1 class="modaal_h1">Bram Nijland (portofolio)</h1>
-                        <div class="modaal_blok_center">
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Talen</h2>
-                                <p>HTML</p>
-                                <p>CSS</p>
-                                <p>PHP</p>
-                                <p>JAVASCRIPT/JQUERY</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Team</h2>
-                                <p>Sjaak Nijland(developer)</p>
-                                <p>Bram Nijland(Ontwerp)</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Taak</h2>
-                                <p>Volledige site bouwen</p>
-
-
-                            </div>
-                            <div class="modaal_blok">
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <p><a href="#" class="myButton">Ga naar site!</a></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div id="werk3">
-                        <img src="./img/werk/9levens.png" alt="madworld"class="modaal_img">
-                        <h1 class="modaal_h1">9 levens</h1>
-                        <div class="modaal_blok_center">
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Talen</h2>
-                                <p>HTML</p>
-                                <p>CSS</p>
-                                <p>PHP</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Team</h2>
-                                <p>Sjaak Nijland(developer)</p>
-                                <p>Sjaak Nijland(Vormgever)</p>
-
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Taak</h2>
-                                <p>Volledige site bouwen</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <p><a href="www.9levens.nl" class="myButton">Ga naar site!</a></p>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="werk">
-                        <figure class="imghvr-shutter-in-out-diag-1" id="werk3Thumb"><img src="./img/werk/9levens.png" alt="work" >
+                        <a href="index.php?action=9levens">
+                        <figure class="imghvr-shutter-in-out-diag-1"><img src="./img/werk/9levens.PNG" alt="work" >
                             <figcaption>
                                 <h1 class="werk_h1">9 Levens</h1>
                             </figcaption>
                         </figure>
-                    </div>
-                    <div id="werk4">
-                        <img src="./img/werk/Facetival.png" alt="madworld" class="modaal_img">
-                        <h1 class="modaal_h1">Facetival</h1>
-                        <div class="modaal_blok_center">
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Talen</h2>
-                                <p>HTML</p>
-                                <p>CSS</p>
-                                <p>PHP</p>
-                                <p>JAVASCRIPT/JQUERY</p>
-                                <p>MySql</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Team</h2>
-                                <p>Sjaak Nijland(Developer)</p>
-                                <p>Nanko Prinzhorn(Developer)</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <h2 class="modaal_h2">Taak</h2>
-                                <p>Ontwerp</p>
-                                <p>Front-end</p>
-                            </div>
-                            <div class="modaal_blok">
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <p><a href="www.9levens.nl" class="myButton">Ga naar site!</a></p>
-                            </div>
-                        </div>
+                        </a>
                     </div>
                     <div class="werk">
-                        <figure class="imghvr-shutter-in-out-diag-1" id="werk4Thumb"><img src="./img/werk/Facetival.png" alt="work" >
+                        <a href="index.php?action=facetival">
+                        <figure class="imghvr-shutter-in-out-diag-1"><img src="./img/werk/Facetival.PNG" alt="work" >
                             <figcaption>
                                 <h1 class="werk_h1">Facetival</h1>
                             </figcaption>
                         </figure>
+                        </a>
                     </div>
 
                 </div>

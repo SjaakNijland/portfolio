@@ -8,27 +8,27 @@ $(document).ready(function () {
     $('#werk1Thumb').on('click', function () {
         modaalVenObj.openen({
             inhoud: werk1,
-            breedte: 700
+
         });
     })
     $('#werk2Thumb').on('click', function () {
         modaalVenObj.openen({
             inhoud: werk2,
-            breedte: 700
+
         });
     })
 
     $('#werk3Thumb').on('click', function () {
         modaalVenObj.openen({
             inhoud: werk3,
-            breedte: 700
+
         });
     })
 
     $('#werk4Thumb').on('click', function () {
         modaalVenObj.openen({
             inhoud: werk4,
-            breedte: 700
+
         });
     })
 });

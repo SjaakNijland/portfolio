@@ -7,11 +7,11 @@
     </div>
     <nav>
         <ul>
-                <li class="menu_nav"><a href="#section1">Home</a></li>
-                <li class="menu_nav"><a href="#section2">Info</a></li>
-                <li class="menu_nav"><a href="#section4">Vaardigheden</a></li>
-                <li class="menu_nav"><a href="#section6">Werk</a></li>
-                <li class="menu_nav"><a href="#section8">Contact</a></li>
+                <li class="menu_nav"><a href="index.php?action=home#section1">Home</a></li>
+                <li class="menu_nav"><a href="index.php?action=home#section2">Info</a></li>
+                <li class="menu_nav"><a href="index.php?action=home#section4">Vaardigheden</a></li>
+                <li class="menu_nav"><a href="index.php?action=home#section6">Werk</a></li>
+                <li class="menu_nav"><a href="index.php?action=home#section8">Contact</a></li>
 
             <li>
                 <img src="./img/icons_facebook.png" alt="nav" class="icons" href="https://www.facebook.com/sjaak.nijland">

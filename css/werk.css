@@ -1,0 +1,227 @@
+.werk_page{
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+
+}
+.werk_banner{
+    width: 100%;
+}
+.werk_page_title{
+    color: #bf2322;
+    margin-top: 100px;
+    font-size: 60px;
+
+}
+.werk_page_blok1{
+     width: 100%;
+     margin-top: 30px;
+     float: left;
+ }
+.werk_page_blok2{
+    width: 50%;
+    margin-top: 30px;
+    float: left;
+    text-align: left;
+}
+.werk_page_blok2 h2{
+ color: #bf2322;
+}
+
+.img1{
+   width: 20%;
+    border: 1px solid #212123;
+
+}
+.img2{
+    width: 70%;
+    margin-right: 9%;
+    border: 1px solid #212123;
+
+}
+.werk_table{
+    width: 25%;
+    float: left;
+    margin-right: 5%;
+
+}
+.werk_table table tr th{
+  text-align: left;
+
+}
+.werk_page_blok3{
+     width: 50%;
+     margin-top: 30px;
+     float: left;
+     text-align: left;
+ }
+.werk_page_blok3 h2{
+   color: #bf2322;
+}
+.zieook{
+    width: 100%;
+    float: left;
+    text-align: center;
+}
+.zieook_h1{
+    width: 100%;
+    margin-top: 80px;
+    color: #bf2322;
+}
+.zieook img{
+    width: 25%;
+    float: left;
+}
+/*mobile 400 bij 700*/
+@media only screen and (min-width:900px) and (max-width: 1200px) {
+    .werk_page{
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+
+    }
+    .werk_banner{
+        width: 100%;
+    }
+    .werk_page_title{
+        color: #bf2322;
+        margin-top: 100px;
+        font-size: 60px;
+
+    }
+    .werk_page_blok1{
+        width: 100%;
+        margin-top: 30px;
+        float: left;
+    }
+    .werk_page_blok2{
+        width: 100%;
+        margin-top: 30px;
+        float: left;
+        text-align: left;
+    }
+    .werk_page_blok2 h2{
+        color: #bf2322;
+    }
+
+    .img1{
+        width: 20%;
+        border: 1px solid #212123;
+
+    }
+    .img2{
+        width: 70%;
+        margin-right: 6%;
+        border: 1px solid #212123;
+
+    }
+    .werk_table{
+        width: 25%;
+        float: left;
+        margin-right: 5%;
+
+    }
+    .werk_table table tr th{
+        text-align: left;
+
+    }
+    .werk_page_blok3{
+        width: 100%;
+        margin-top: 30px;
+        float: left;
+        text-align: left;
+    }
+    .werk_page_blok3 h2{
+        color: #bf2322;
+    }
+    .zieook{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .zieook_h1{
+        width: 100%;
+        margin-top: 80px;
+        color: #bf2322;
+    }
+    .zieook img{
+        width: 25%;
+        float: left;
+    }
+}
+@media only screen and (max-width:900px){
+    .werk_page{
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .werk_banner{
+        width: 100%;
+    }
+    .werk_page_title{
+        color: #bf2322;
+        margin-top: 100px;
+        font-size: 60px;
+
+    }
+    .werk_page_blok1{
+        width: 100%;
+        margin-top: 20px;
+        float: left;
+    }
+    .werk_page_blok2{
+        width: 100%;
+        margin-top: 30px;
+        float: left;
+        text-align: left;
+    }
+    .werk_page_blok2 h2{
+        color: #bf2322;
+    }
+
+    .img1{
+        width: 100%;
+        border: 1px solid #212123;
+
+    }
+    .img2{
+        width: 100%;
+        margin-right: 9%;
+        border: 1px solid #212123;
+        margin-bottom: 20px;
+
+    }
+    .werk_table{
+        width: 100%;
+        float: left;
+        margin-right: 5%;
+
+    }
+    .werk_table table tr th{
+        text-align: left;
+
+    }
+    .werk_page_blok3{
+        width: 100%;
+        margin-top: 30px;
+        float: left;
+        text-align: left;
+    }
+    .werk_page_blok3 h2{
+        color: #bf2322;
+    }
+    .zieook{
+        width: 100%;
+        float: left;
+        text-align: center;
+    }
+    .zieook_h1{
+        width: 100%;
+        margin-top: 80px;
+        color: #bf2322;
+    }
+    .zieook img{
+        width: 100%;
+        float: left;
+    }
+}
